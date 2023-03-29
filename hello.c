@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("hello little world!");
+  printf("Hey little July!");
   return 0;
 }
